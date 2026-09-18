@@ -4,6 +4,8 @@ Learn Spanish by reading real books.
 
 You open a Spanish book, click any word, and see what it means. Words you don't know go to flashcards with one click. Later you review them with spaced repetition. Everything you do (reading, watching, listening, studying) earns XP, levels, badges, and a streak.
 
+<img width="1257" height="886" alt="image" src="https://github.com/user-attachments/assets/9834b7cb-c9ac-4a9c-afeb-f6ba216a754b" />
+
 ## Why
 
 Most language tools make you juggle four apps: a reader, a dictionary, a flashcard app, a habit tracker. They don't talk to each other. You learn a word while reading and never see it again.
