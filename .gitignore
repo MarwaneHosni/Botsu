@@ -1,0 +1,14 @@
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Defense-in-depth: this repo is documentation-only and must never contain env/secrets.
+.env
+.env.*
+*.env
+
+# Local logs / scratch
+*.log
+*.tmp
